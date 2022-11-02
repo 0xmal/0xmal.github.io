@@ -22,3 +22,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 - test
+
+![](https://github.com/0xmal/0xmal.github.io/raw/master/_posts/test.png)
+
+- ![](test.png)
